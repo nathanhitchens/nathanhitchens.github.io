@@ -1,0 +1,19 @@
+#gunjanimage {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: auto;
+}
+
+.button {
+    width: 25em;
+    height: 5em;
+    background-color: red;
+    color: white;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
