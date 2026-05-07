@@ -88,3 +88,10 @@ footer {
     text-align: center;
 }
 
+a {
+    color: #2e0000;
+}
+
+a:visited {
+  color: #a06666;
+}
